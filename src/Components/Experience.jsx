@@ -34,7 +34,7 @@ export default function Expereince() {
                         Chennai, India
                     </Flex>
                     <Flex>
-                        <Text className="defaultFont">Responsible for designing and implementing functionalities for Standard Chartered,
+                        <Text className="defaultFont" lineHeight={7}>Responsible for designing and implementing functionalities for Standard Chartered,
                             incorporating dynamic Angular applications with reusable components.
                             Ensured data security through MD5 and SHA256 encryption for JSON web API communication.
                             Optimized front-end performance by employing lazy loading and code splitting techniques,
@@ -71,7 +71,7 @@ export default function Expereince() {
                         Chennai, India
                     </Flex>
                     <Flex className="exp_content">
-                        <Text className="defaultFont" lineHeight={'1.5rem'}>
+                        <Text className="defaultFont" lineHeight={7}>
                             I specialize in designing and developing dynamic web applications using Angular 6,
                             seamlessly integrating them with web API responses. Employing Canvas,
                             I craft captivating pictorial representations like charts and graphs to enhance
@@ -112,7 +112,7 @@ export default function Expereince() {
                         Chennai, India
                     </Flex>
                     <Flex className="exp_content">
-                        <Text className="defaultFont" lineHeight={'1.5rem'}>
+                        <Text className="defaultFont" lineHeight={7}>
                             During my time as a Consultant with Adrenalin E-System Private. Ltd., I took the lead in crafting critical functionalities
                             for scalable web applications using Angular 6. This effort led to a notable 10% enhancement in performance efficiency.
                             Moreover, I fostered productive collaboration across diverse teams, ensuring the seamless integration of
@@ -145,7 +145,7 @@ export default function Expereince() {
                         Chennai, India
                     </Flex>
                     <Flex className="exp_content">
-                        <Text className="defaultFont" lineHeight={'1.5rem'}>
+                        <Text className="defaultFont" lineHeight={7}>
                             Crafted a multi-lingual FSM product application using Angular 2 and 4,
                             resulting in a 50% expansion of market reach across global regions.
                             Additionally, played a key role in developing a .NET Core Web API, which effectively
@@ -178,7 +178,7 @@ export default function Expereince() {
                         Chennai, India
                     </Flex>
                     <Flex className="exp_content">
-                        <Text className="defaultFont" lineHeight={'1.5rem'}>
+                        <Text className="defaultFont" lineHeight={7}>
                             Trained and developed responsive web applications with Angular 2 and 4,
                             enhancing performance by 20% and integrating user-facing elements with server-side logic
                             to improve data exchange efficiency and user interaction by 25%.</Text>
