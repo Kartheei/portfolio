@@ -69,15 +69,18 @@
 
 .skill-image {
     height: 250px;
-    width: 250px;;
+    width: 250px;
+    ;
 }
 
 @media screen and (max-width: 600px) {
     .container {
         width: 90%;
     }
+
     .skill-image {
         height: 150px;
-        width: 100px;;
+        width: 100px;
+        ;
     }
 }
