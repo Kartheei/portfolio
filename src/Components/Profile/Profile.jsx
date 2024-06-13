@@ -59,7 +59,7 @@ export default function Profile(params) {
                                 <Text>May,2021 - April,2023</Text>
                             </Flex>
                         </Flex>
-                        <Divider orientation='vertical' h='280px' m={4} />
+                        <Divider orientation='vertical' h='320px' m={4} />
                         <Flex className="exp_container" flexDirection={'column'} flex="3">
                             <Flex className="role" mb={2}>
                                 <Heading >Technical Lead</Heading>
@@ -169,7 +169,7 @@ export default function Profile(params) {
                                 <Text>Dec,2017 - Apr,2019</Text>
                             </Flex>
                         </Flex>
-                        <Divider orientation='vertical' h='125px' m={4} />
+                        <Divider orientation='vertical' h='145px' m={4} />
 
                         <Flex className="exp_container" flexDirection={'column'} flex="3">
                             <Flex className="role" mb={2}>
@@ -202,7 +202,7 @@ export default function Profile(params) {
                                 <Text>Jun,2017 - Dec,2017</Text>
                             </Flex>
                         </Flex>
-                        <Divider orientation='vertical' h='100px' m={4} />
+                        <Divider orientation='vertical' h='150px' m={4} />
 
                         <Flex className="exp_container" flexDirection={'column'} flex="3">
                             <Flex className="role" mb={2}>
@@ -231,20 +231,20 @@ export default function Profile(params) {
                                     className="skill-image"
                                     src={showskill}
                                     alt='Skill Picture'
-
                                 />
                             </Flex>
                         </Box>
                         <Box width={'70%'}>
                             <HStack spacing={2} width={'100%'} wrap={'wrap'}>
-                                {skills && skills.map((label) => (
-                                    <Tag key={label} borderRadius={'1em'} variant='solid'
+                                {skills && skills.map((data) => (
+                                    <Tag key={data} borderRadius={'1em'} variant='solid'
                                         height={'1.55rem'}
                                         minWidth={'5rem'}
                                         colorScheme='purple'
                                         justifyContent={'center'}
-                                        alignItems={'center'}>
-                                        {label}
+                                        alignItems={'center'}
+                                        alignContent={'center'}>
+                                        {data}
                                     </Tag>
                                 ))}
                             </HStack>
