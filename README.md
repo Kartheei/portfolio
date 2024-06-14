@@ -69,3 +69,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 "# portfolio" 
+
+
+## Deployment Setup Start
+
+1.Create github repo
+2.Install github in code using 
+`git init`
+3.Commit your branch
+4.Create main branch
+5.Add remote branch
+6.Push Changes
+7.Install gh-pages in code using 
+`npm install -D gh-pages`
+8.Add `homepage`:`Project Name` in package.json
+9.Add `"repository": {"type": "git","url": "Repo URL"}` in package.json
+10.Add `basename="Project Name"` in App.js
+
+## Deployment Setup End

@@ -1,12 +1,11 @@
 import React from "react";
 import { Flex, Button } from '@chakra-ui/react'
-import resumePDF from '../asset/resume.pdf';
 
 export default function Header() {
     return (
         <section className="headerSection">
             <Flex justify="flex-end" align="center">
-                <a href={resumePDF} target="_blank" rel="noopener noreferrer">
+                <a href='https://drive.google.com/file/d/1tXoGhXUyWzFV95rPehO6iUfQoEFb-ekP/view' target="_blank" rel="noopener noreferrer">
                     <Button
                         bg="#6a0dad" 
                         color="white" 
