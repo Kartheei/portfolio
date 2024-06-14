@@ -8,7 +8,7 @@ export default function Summary() {
         <section>
             <Heading p={0} mb={4} className="name-card">Hello, I'm Karthick</Heading>
 
-            <Text fontSize='lg' className="defaultFont" lineHeight={10}>
+            <Text fontSize='lg' className="defaultFont">
                 I am a <span className="name-card">Software Developer.</span> I thrive on solving problems and devloping web application.As a loyal and dedicated worker, I bring passion and commitment to every project I undertake.Beyond my professional endeavors,I'm deeply passionate about technology and creative expression,
                 finding joy in outdoor adventures and embracing coding challenges with enthusiasm.
                 <br></br>
