@@ -6,14 +6,16 @@ export default function Summary() {
 
     return (
         <section>
-            <Heading p={0} mb={4} className="name-card">Hello, I'm Karthick</Heading>
+            <Heading p={0} mb={4} className="name-card">Hi, I'm Karthick</Heading>
 
             <Text fontSize='lg' className="defaultFont">
-                I am a <span className="name-card">Software Developer.</span> I thrive on solving problems and devloping web application.As a loyal and dedicated worker, I bring passion and commitment to every project I undertake.Beyond my professional endeavors,I'm deeply passionate about technology and creative expression,
+                I am a Software Developer who thrives on solving problems and developing web applications.
+                As a loyal and dedicated worker, I bring passion and commitment to every project I undertake.
+                Beyond my professional endeavors, I am deeply passionate about technology and creative expression,
                 finding joy in outdoor adventures and embracing coding challenges with enthusiasm.
                 <br></br>
-                My passion for the entire frontend ecosystem drives me to seek out collaboration opportunities on
-                exciting projects with like-minded individuals.
+                My passion for the entire frontend ecosystem drives me to seek out collaboration opportunities on 
+                exciting projects with like-minded individuals. 
                 Let's join forces and create something truly exceptional together!
             </Text>
             <Flex justifyContent={'center'}>
