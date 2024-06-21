@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.942d5503.css",
+    "main.js": "/portfolio/static/js/main.8f5de38d.js",
+    "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/showskill.png": "/portfolio/static/media/showskill.ce70ae8089fe8d1b2ca5.png",
+    "static/media/skills-mobile.png": "/portfolio/static/media/skills-mobile.6fc57632c953d59c4533.png",
+    "static/media/image2.png": "/portfolio/static/media/image2.5b35cd4a2f0de1d91e77.png",
+    "static/media/tt.jpg": "/portfolio/static/media/tt.4f6c4bd66b8400ef5c62.jpg",
+    "static/media/scb_logo.png": "/portfolio/static/media/scb_logo.da29956a0b395d44be6d.png",
+    "static/media/ems.png": "/portfolio/static/media/ems.3c8d612eec336c299358.png",
+    "static/media/adrenalin.jpg": "/portfolio/static/media/adrenalin.0ef2c3d3fd125ddc735d.jpg",
+    "static/media/todoapp.png": "/portfolio/static/media/todoapp.90d847fbcc3732d897e8.png",
+    "static/media/mysql.png": "/portfolio/static/media/mysql.8d2fd72d957a66825bcd.png",
+    "static/media/github.png": "/portfolio/static/media/github.a19665014ec3fdcb1ba0.png",
+    "static/media/react.png": "/portfolio/static/media/react.57c4a49f6803d191097e.png",
+    "static/media/redux.png": "/portfolio/static/media/redux.492ed7d54dd2352c5786.png",
+    "static/media/zylog.png": "/portfolio/static/media/zylog.5e2761eb13ec83b6074c.png",
+    "static/media/angular.png": "/portfolio/static/media/angular.e26290e2f462535adef4.png",
+    "static/media/css.png": "/portfolio/static/media/css.8aaf7833370a6845139c.png",
+    "static/media/html.png": "/portfolio/static/media/html.be50d4568ab0cb01edb8.png",
+    "index.html": "/portfolio/index.html",
+    "main.942d5503.css.map": "/portfolio/static/css/main.942d5503.css.map",
+    "main.8f5de38d.js.map": "/portfolio/static/js/main.8f5de38d.js.map",
+    "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.942d5503.css",
+    "static/js/main.8f5de38d.js"
+  ]
+}
