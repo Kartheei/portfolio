@@ -3,7 +3,7 @@ import Profile from './Page/Profile';
 
 function App() {
   return (
-    <div className="App" basename=" ">
+    <div className="App" basename="portfolio">
             <Profile />
     </div>
   );
